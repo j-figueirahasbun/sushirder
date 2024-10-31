@@ -6,6 +6,10 @@ This project contains notes as comments. While this is not the ideal clean way o
 
 To run the project clone the repository and then run the following: 
 
+npm install
+
+and then 
+
 npm run dev 
 
 the server will run on localhost:5173
